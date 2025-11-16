@@ -47,15 +47,6 @@ sudo apt install libwebkit2gtk-4.1-dev build-essential curl wget libssl-dev libg
 
 _Windows_: Install Visual Studio Build Tools with "Desktop Development with C++" workload.
 
-### Install from Release
-
-1. Go to [Releases](https://github.com/Digitalspy12/TrackShift2025_smarttransfer/releases)
-2. Download the installer for your platform:
-   - macOS: `fall_ak_x64.dmg` or `fall_ak_aarch64.dmg`
-   - Linux: `fall_ak_amd64.AppImage`
-   - Windows: `fall_ak_x64.msi`
-3. Run the installer
-
 _macOS users_: After installation, run:
 
 ```bash
