@@ -1,0 +1,9 @@
+{
+  "name": "fall_ak",
+  "version": "0.2.1",
+  "scripts": {
+    "dev": "cd ../web-app && npm run dev",
+    "build": "cd ../web-app && npm run build",
+    "sync-version": "node ../scripts/sync-version.js"
+  }
+}
