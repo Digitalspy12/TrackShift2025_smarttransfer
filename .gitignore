@@ -108,7 +108,7 @@ src-tauri/target/*
 src-tauri/gen/*
 
 # Markdown files (except README files)
-*.md
+
 !feature-request.md
 !report-bug.md
 !README.md
